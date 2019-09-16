@@ -8,7 +8,7 @@ as stated above the porject is to do things
 ##Purpose 
 
 #How to contribute
-this is a simple depolyment
+add people to the humans
 ## copyright
 this is a copyright 20154
 ## demployment
